@@ -1,2 +1,3 @@
-# FaceReg
-Facial Recognition with OpenCV
+# Face Recognition
+Basic Facial Recognition with OpenCV 
+Testing Ground for another Project
